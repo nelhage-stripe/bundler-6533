@@ -1,0 +1,19 @@
+GIT
+  remote: https://github.com/google/protobuf
+  revision: ce044817c7ba0aea27c3fd8e496635d94d20a755
+  ref: ce044817c7ba0aea27c3fd8e496635d94d20a755
+  specs:
+    google-protobuf (3.6.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  google-protobuf!
+
+BUNDLED WITH
+   1.16.2
